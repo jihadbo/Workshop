@@ -1,2 +1,1 @@
-/node_modules
-/map_bsq
+/* !src/*.c !tests !Makefile !includes/*.h
