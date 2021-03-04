@@ -1,1 +1,3 @@
-/* !src/*.c !tests !Makefile !includes/*.h
+/node_modules
+/map_bsq
+/* !src/ !tests !Makefile !includes/
